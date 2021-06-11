@@ -1,20 +1,17 @@
 #!/bin/bash
 clear
-echo "		    --VrtualBox MacOS Virtual Machine Patcher--"
-echo "			--made by Jakub Ciźla (Kuba_CXD)--"
+echo "		    --Simple MacOS VM Creator for VBOX--"
 echo " "
-echo "!! UWAGA, Aby użyć tego narzędzia na komputerze musi być zainstalowany !!"
-echo "		!! program VirtualBox o wersji 5 bądź wyższej !!"
+echo "!! MAKE SURE THAT YOU HAVE Oracle Virtual Box Installed Before Using this software !!"
 echo " "
-echo "Aby kontynuować kliknij Return (Enter) ..."
+echo "To continue press Return ..."
 read VBOXMACOSVMPstart
 echo "Podany tekst : " $VBOXMACOSVMPstart
 clear 
 #
 #
 #
-echo "		    --VrtualBox MacOS Virtual Machine Patcher--"
-echo "			--made by Jakub Ciźla (Kuba_CXD)--"
+echo "		    --Simple MacOS VM Creator for VBOX--"
 
 while [ 1 == 1 ] ; do 
 #
